@@ -51,7 +51,7 @@ RFID-Zugangsinformationen mit dem Seriellen Monitor auslesen
 
 ![Bild](pic/rfid4c.png)
 
-![Bild](pic/rfid4d.png)
+![Bild](pic/rfid4dpng.png)
 
 
 ## Aufbau der RFID-Zugangskontrolle
