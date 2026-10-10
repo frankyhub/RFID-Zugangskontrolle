@@ -5,16 +5,17 @@
 |[:skull:ISSUE](https://github.com/frankyhub/RFID-Zugangskontrolle/issues?q=is%3Aissue)|[:speech_balloon: Forum /Discussion](https://github.com/frankyhub/RFID-Zugangskontrolle/discussions)|[:grey_question:WiKi](https://github.com/frankyhub/RFID-Zugangskontrolle/wiki)||
 |--|--|--|--|
 | | | | |
-|![Static Badge](https://img.shields.io/badge/RepoNr.:-%2050-blue)|<a href="https://github.com/frankyhub/RFID-Zugangskontrolle/issues">![GitHub issues](https://img.shields.io/github/issues/frankyhub/RFID-Zugangskontrolle)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/RFID-Zugangskontrolle)|<a href="https://github.com/frankyhub/RFID-Zugangskontrolle/discussions">![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/RFID-Zugangskontrolle)|<a href="https://github.com/frankyhub/RFID-Zugangskontrolle/releases">![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/RFID-Zugangskontrolle)|
-|![GitHub Created At](https://img.shields.io/github/created-at/frankyhub/RFID-Zugangskontrolle)| <a href="https://github.com/frankyhub/RFID-Zugangskontrolle/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/badges/shields" />| <a href="https://github.com/frankyhub/RFID-Zugangskontrolle/graphs/traffic"><img alt="ViewCount" src="https://views.whatilearened.today/views/github/frankyhub/github-clone-count-badge.svg">  |<a href="https://github.com/frankyhub?tab=stars"> ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)|
+<a href="https://github.com/frankyhub/RFID-Zugangskontrolle/issues">![GitHub issues](https://img.shields.io/github/issues/frankyhub/RFID-Zugangskontrolle)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/RFID-Zugangskontrolle)|<a href="https://github.com/frankyhub/RFID-Zugangskontrolle/discussions">![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/RFID-Zugangskontrolle)|<a href="https://github.com/frankyhub/RFID-Zugangskontrolle/6eleases">![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/RFID-Zugangskontrolle)|![Static Badge](https://img.shields.io/badge/RepoNr.:-%2050-blue)|
+|![GitHub Created At](https://img.shields.io/github/created-at/frankyhub/RFID-Zugangskontrolle)| <a href="https://github.com/frankyhub/RFID-Zugangskontrolle/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/badges/shields" />| <a href="https://github.com/frankyhub/RFID-Zugangskontrolle/graphs/traffic"><img alt="ViewCount" src="https://views.whatilearened.today/views/github/frankyhub/github-clone-count-badge.svg">  |<a href="https://github.com/frankyhub?tab=stars"> ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)||
+
 </div>
-
-
 
 # RFID-Zugangskontrolle
 Türschloss, LED-Anzeige, Relais-Anschluss oder Servo-Motor
 
-![Bild](pic/rfid3.jpg)
+<img src="pic/rfid3.jpg" width="500"> 
+<br> <br>
+
 
 ## Story
 
@@ -39,7 +40,8 @@ Die Stückliste für die RFID-Zugangskontrolle:
 
 ## Verdrahtung
 
-![Bild](pic/rfid1.png)
+<img src="pic/rfid1.png" width="500"> 
+<br> <br>
 
 + NANO D2 -> grüne LED
 + NANO D3 -> rote LED
@@ -55,32 +57,32 @@ Die Software wird mit der Arduino IDE in den NANO geladen.
 
 RFID-Code mit dem Seriellen Monitor auslesen
 
-![Bild](pic/rfid4.png)
+<img src="pic/rfid4.png" width="500"> 
+<br> <br>
 
-![Bild](pic/rfid4dpng.png)
-
+<img src="pic/rfid4dpng.png" width="500"> 
+<br> <br>
 
 RFID-Zugangsinformationen mit dem Seriellen Monitor auslesen
 
-![Bild](pic/rfid4c.png)
-
-
-
+<img src="pic/rfid4c.png" width="500"> 
+<br> <br>
 
 ## Aufbau der RFID-Zugangskontrolle
 
-![Bild](pic/rfid2.jpg)
+<img src="pic/rfid2.jpg" width="500"> 
+<br> <br>
+
 
 ## RFID-Zugangskontrolle mit Servo-Motor Verschlusseinheit
 
-![Bild](pic/rfid3.jpg)
-
+<img src="pic/rfid3.jpg" width="500"> 
+<br> <br>
 
 ## PIN-OUT RFID-Shield
 
-![Bild](pic/rfid5.jpg)
-
-
+<img src="pic/rfid5.jpg" width="500"> 
+<br> <br>
 
 ---
 
